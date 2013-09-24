@@ -1,0 +1,3 @@
+dmesgtime script
+
+changes timestamps of dmesg from seconds since boot to readable time and date
